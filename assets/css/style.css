@@ -1,0 +1,30 @@
+body {
+    background: #d0f0c0;
+   
+}
+
+.wrapper {
+    background-image: url("../images/trivia-bg.jpg");
+    color: #d0f0c0;
+    margin-top: 2%;
+    margin-right: 10%;
+    margin-left: 10%;
+    border: solid 2px #d0f0c0;
+   
+
+}
+
+h1 {
+    border-bottom: solid;
+}
+
+.boxes {
+    margin: 2%;
+    padding:2%;
+}
+
+.btn {
+    color: #d0f0c0;
+    border: solid 1.5px #d0f0c0;
+
+}
